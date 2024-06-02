@@ -1,0 +1,39 @@
+
+header{
+   width:100%;
+   background-color: blueviolet;
+}
+.nav{
+   background-color: black;
+   height:50px;
+  font-size: 8px;;
+   font-weight:bold;
+   text-decoration:none;
+   color:white;
+   text-align:center;
+   display:flex;
+}
+.loki{
+   display:flex;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   text-decoration:none;
+   list-style:none;
+   justify-content: space-between;
+   padding-left:140vh;
+   padding-top:20px;
+}
+ 
+
+
+.loki li a{
+   padding:10px;
+   font-size:15px;
+   color: white;
+   
+   
+}
+.loki li a:hover{
+   background-color:white;
+   background: radius 50px;
+   color:black;
+}
